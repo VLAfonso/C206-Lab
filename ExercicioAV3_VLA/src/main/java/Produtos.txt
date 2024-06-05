@@ -1,0 +1,20 @@
+++ Produto ++
+Arroz
+38.0
+Comida
+++ Produto ++
+Papel
+15.5
+Higiene
+++ Produto ++
+Feijão
+8.0
+Comida
+++ Produto ++
+Chocolate
+5.1
+Comida
+++ Produto ++
+Cortina
+249.99
+Decoração
