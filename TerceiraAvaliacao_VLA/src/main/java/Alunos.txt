@@ -1,0 +1,25 @@
+++ Aluno ++
+Virgínia
+1944
+Computação
+95.0
+++ Aluno ++
+Matheus
+1994
+Computação
+87.5
+++ Aluno ++
+Bruna
+987
+Telecomunicações
+84.3
+++ Aluno ++
+Alana
+346
+Software
+76.9
+++ Aluno ++
+Sofia
+357
+Software
+93.8
